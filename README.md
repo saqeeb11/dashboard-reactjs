@@ -1,16 +1,17 @@
-# node js login system with jwt authentication
+# Simple dasboard to visualize your data
 
-A complete login system with node js environment using react js and mui framework as a frontend. This project contains jwt authentication and it uses mysql as a database.This project also contains cookie and session storage.
+A well designed Dashbord system using React.js and material UI for frontend and Node.js (Express.js) and MySQL for backend.
 
 ## get started
 
-Go to project directory and run:
+First setup your MySQL server by initializing dotenv file with the given reference in reference.txt
+
+Then go to project directory and run:
 
 ```
 $ cd server
 $ npm run nodemon
 ```
-
 
 i'll recommend you to open seperate terminal for client folder and server folder.
 as per recommendation, in new terminal in the same directory run:
